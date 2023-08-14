@@ -1,0 +1,13 @@
+.idea
+**.ipynb_checkpoints/
+.env
+**venv/
+../../.idea/
+db.sqlite3
+../../main.py
+notes
+/static
+.idea
+*/__pycache__/*
+
+
